@@ -1,6 +1,6 @@
 # ArduinoASTInterpreter Library
 
-**Version**: 21.2.1
+**Version**: 22.0.0
 **Platform**: ESP32-S3 (Arduino Framework)
 **License**: Dual-licensed (sfranzyshen.com Source-Available License 1.0 / GNU AGPLv3)
 
