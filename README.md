@@ -1,4 +1,4 @@
-# ArduinoASTInterpreter Library
+# ASTI (Arduino Library) - The Arduino Sketch Interpreter
 
 **Version**: 22.0.0
 **Platform**: ESP32-S3 (Arduino Framework)
@@ -233,8 +233,8 @@ void loop() {
 
 ## Support
 
-- **GitHub**: https://github.com/sfranzyshen/ASTInterpreter
-- **Issues**: https://github.com/sfranzyshen/ASTInterpreter/issues
+- **GitHub**: https://github.com/sfranzyshen/ASTI
+- **Issues**: https://github.com/sfranzyshen/ASTI/issues
 - **License**: See LICENSE file in repository
 
 ## Version History
