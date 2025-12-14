@@ -1,4 +1,4 @@
-# ASTI (Arduino Library) - The Arduino Sketch Interpreter
+# ASTI (Arduino Library) - Arduino Sketch Interpreter
 
 **Version**: 22.0.0
 **Platform**: ESP32-S3 (Arduino Framework)
